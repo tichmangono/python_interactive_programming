@@ -104,5 +104,3 @@ reset = frame.add_button("RESET", reset, 120)
 
 # start frame
 frame.start()
-
-# Please remember to review the grading rubric
